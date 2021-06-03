@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>24.jpg</filename>
+	<path>C:\TCC\AlternateChessPieces\4 New Object Detector\data\images\train\24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WhiteRook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>354</ymin>
+			<xmax>448</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WhiteRook</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>203</ymin>
+			<xmax>598</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
