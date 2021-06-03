@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7.jpg</filename>
+	<path>C:\TCC\AlternateChessPieces\4 New Object Detector\data\images\test\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WhiteBishop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>114</ymin>
+			<xmax>409</xmax>
+			<ymax>213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WhiteBishop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>315</xmin>
+			<ymin>358</ymin>
+			<xmax>458</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>
